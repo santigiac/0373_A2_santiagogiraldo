@@ -8,9 +8,16 @@ Es el lugar donde se almacenan las paginas web y donde hay que accesder para mod
 Los lenguajes de marcas son los que estructuran las paginas web y funcionan a base de etiquetas. Eestos son los que conozco.
 | Nombre         | Enlace a documentación                            |
 |----------------|---------------------------------------------------|
-| HTML (Hypertext Markup Language) | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)|
-| XML (eXtensible Markup Language) | [XML](https://www.w3.org/XML/)|
-| XHTML (Extensible Hypertext Markup Language) | [XHTML](https://www.w3.org/TR/xhtml1/)|
-| SVG (Scalable Vector Graphics)   | [SVG](https://www.w3.org/Graphics/SVG/)|
+| HTML   | [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) |
+| XML    | [XML](https://www.w3.org/XML/)|
+| XHTML  | [XHTML](https://www.w3.org/TR/xhtml1/) |
+| SVG    | [SVG](https://www.w3.org/Graphics/SVG/) |
+
+| Nombre    | Enlace a documentación   | 
+|----------------|:------------:|
+|HTML   |[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)| 
+|XML    | [XML](https://www.w3.org/XML/)|
+|XHTML  | [XHTML](https://www.w3.org/TR/xhtml1/) |
+|SVG    | [SVG](https://www.w3.org/Graphics/SVG/) |
 4. ¿Qué es <HTML> ? ¿Sabes cómo se estructura?
 5. ¿Qué es <CSS>?
