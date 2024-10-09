@@ -25,7 +25,7 @@
 
     Con este lenguaje de marcas se puede estructurar el contenido de un sitio web utilizando etiquetas, las cuales indican cómo se deben de mostrar los elementos en el navegador.
 
-    ´´´
+    ```
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -36,9 +36,11 @@
     </head>
     <body>
     </body>
-    </html>
-    ´´´
+    </html> 
+    ```
+    
     __*Figura 1: Estructura de código HTML*__
+    
 5. ¿Qué es CSS?
 
     El CSS es el lenguaje que se utliza para definir y aplicar estilos a documentos HTML, controla la apariencia visual de las páginas web. 
